@@ -9,7 +9,7 @@
  
 <div align="center">
  
-🌱 I’m currently learning **Basic Machine Learning and The Foundation of Data Analysis**
+🌱 I’m currently learning **Basic Machine Learning and The Foundation of Data Analytics**
 
 🔭 My current research focuses on: 🧩 **Data Science and Data Engineering** ⚡ **Applied Mathematics** and 💹 **Mathematical Machine Learning**
 
