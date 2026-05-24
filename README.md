@@ -9,9 +9,9 @@
  
 <div align="center">
  
-🌱 I’m currently learning and researching **Basic Machine Learning, The Foundation of Data Analytics and Genetic Algorithm**
+🌱 I’m currently learning **Basic Machine Learning and The Foundation of Data Analysis**
 
-🔭 My current research focuses on: 🧩 **Data Science and Data Engineering** ⚡ **Applied Mathematics** and 💹 **Mathematical Machine Learning**
+🔭 My current research focuses on: 🧩 **Data Analysis through projects (expected paper)** ⚡ **Applied Mathematics** and 💹 **AI concepts**
 
 ⚡ Random quote: **Chill out!**
 
@@ -32,9 +32,20 @@
  <hr/>
 
 # 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  <hr/>
- 
+
+ <div align="center">
+  <a href="https://leetcode.com/u/khoageocse/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/khoageocse?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Journey" />
+  </a>
+
+  <br><br>
+
+  <a href="https://leetcode.com/u/khoageocse/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-VIEW%20PROFILE-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
+  </a>
+</div>
 # 📊 GitHub Stats:
 
 <hr/>
