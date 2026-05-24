@@ -51,11 +51,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThanhDanh1510/ThanhDanh1510/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
+  <img src="https://raw.githubusercontent.com/lamducanhkhoarubik-spec/lamducanhkhoarubik-spec/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
 </div>
 
 <hr/>
