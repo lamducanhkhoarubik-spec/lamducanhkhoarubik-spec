@@ -12,7 +12,7 @@
 🌱 I’m currently learning **Basic Machine Learning and The Foundation of Data Analysis**
 
 🔭 My current research focuses on: 🧩 **NLP (paper in EACL)** ⚡ **Applied Mathematics** and 💹 **Time Series**
-
+⚡I'm currently a front-end developer for an App Development project, completed through collaboration with Macquirie university
 ⚡ Random quote: **Chill out!**
 
  </div>
