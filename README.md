@@ -11,7 +11,7 @@
  
 🌱 I’m currently learning **Basic Machine Learning and The Foundation of Data Analysis**
 
-🔭 My current research focuses on: 🧩 **Data Analysis through projects (expected paper)** ⚡ **Applied Mathematics** and 💹 **AI concepts**
+🔭 My current research focuses on: 🧩 **NLP (paper in EACL)** ⚡ **Applied Mathematics** and 💹 **Time Series**
 
 ⚡ Random quote: **Chill out!**
 
