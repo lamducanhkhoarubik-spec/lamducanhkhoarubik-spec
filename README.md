@@ -13,7 +13,7 @@
 
 🔭 My current research focuses on: 🧩 **NLP (paper in EACL)** ⚡ **Federated learning in AI and Cybersecurity** and 💹 **Time Series**
 
-⚡ I'm currently a front-end developer for an App Development project, completed through collaboration with Macquirie university
+⚡ I'm currently a front-end developer for an App Development project, completed through collaboration with Macquarie University
 ⚡ Random quote: **Chill out!**
 
  </div>
